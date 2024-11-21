@@ -51,7 +51,7 @@ View the Content of the Hostname File:
 
 
 ## RESULT
- 
+ The experiment to create and configure a Linux virtual machine (CentOS) using VirtualBox or VMware Workstation was successfully completed.
 
   
 
